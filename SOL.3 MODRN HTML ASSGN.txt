@@ -1,0 +1,24 @@
+Ques3: Define accessibility in the context of web development. Discuss why it's essential to create accessible websites and how it benefits different user groups.
+
+Sol:
+
+Accessibility in HTML refers to the practice of designing and coding web content in a way that ensures it can be easily accessed, understood, and interacted with by people of diverse abilities, including those with disabilities. 
+This includes using semantic markup, providing alternative text for images and videos, and making sure your web pages are navigable using a keyboard.
+
+
+There are many reasons why we should create accessible websites. Here are some of the important points-
+1.Perceivable: "Users must be able to perceive the information being presented (it can't be invisible to all of their senses)."
+
+2.Operable: "Users must be able to operate the interface (the interface cannot require interaction that a user cannot perform)."
+
+3.Understandable: "Users must be able to understand the information as well as the operation of the user interface."
+
+4.Robust: "Users must be able to access the content as technologies advance (as technologies and user agents evolve, the content should remain accessible)."
+
+Benefits to different user groups -
+
+1.Using high-contrast foreground/background colors benefits those with visual impairments, but most other users will also enjoy reading your site without squinting or experiencing eye fatigue.
+
+2.Providing a clear, simple design, including a consistent and intuitive navigational mechanism, benefits a variety of users with disabilities, but the result of doing so is a website where users can easily and efficiently find the information they're looking for. Clearly, this is a benefit to all users.
+
+3.Avoiding flashing animations is necessary because animations that flash at frequencies between 2 and 55 hertz can trigger seizures in individuals who are susceptible. Flashing animations, however, additionally tend to annoy or distract users without seizure disorders.
